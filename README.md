@@ -17,16 +17,28 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/mp0cw41' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with https://ezgif.com/video-to-gif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+
+1. Facebook:
+Sharing many photos at once.
+Edit Profile UI
+
+2. Twitter:
+Easy UI to interact with tweets
+Making profile public/private
+
+3. BeReal:
+Option to add friends easily by linking contacts.
+The photo timer and option to retake photos.
 
 ## Notes
 
