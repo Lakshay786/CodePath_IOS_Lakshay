@@ -15,9 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src='https://imgur.com/a/MKqEzZX.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Here's a walkthrough of implemented user stories: 'https://imgur.com/a/MKqEzZX.gif'
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with https://ezgif.com/video-to-gif
